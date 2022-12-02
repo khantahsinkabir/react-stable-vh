@@ -1,0 +1,16 @@
+{
+  "name": "react-stable-vh",
+  "version": "1.0.0",
+  "description": "A package to keep your vh stable while using onscreen keyboard.",
+  "main": "./src/index.js",
+  "keywords": [
+    "react",
+    "vh",
+    "viewport height"
+  ],
+  "author": "Tahsin Khan (khantahsinkabir)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16"
+  }
+}
