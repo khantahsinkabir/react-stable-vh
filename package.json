@@ -2,7 +2,7 @@
   "name": "react-stable-vh",
   "version": "1.0.0",
   "description": "A package to keep your vh stable while using onscreen keyboard.",
-  "main": "./src/index.js",
+  "main": "index.js",
   "keywords": [
     "react",
     "vh",
